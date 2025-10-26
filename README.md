@@ -53,3 +53,30 @@ The process of Requirement Analysis consists of several structured activities th
 
 - **Requirement Validation:**  
   Ensuring the documented requirements are accurate, complete, and aligned with stakeholder intentions before proceeding to design and implementation.
+
+  ---
+
+## Types of Requirements  
+
+### 1. Functional Requirements  
+
+Functional requirements define **what the system should do** — the specific behavior or functions of the system.  
+
+**Examples (Booking Management System):**  
+
+- Users should be able to **create an account and log in**.  
+- The system should allow users to **search for available rooms** based on date and location.  
+- The system should **process payments** securely for bookings.  
+- Admins should be able to **approve, cancel, or modify bookings**.  
+
+### 2. Non-functional Requirements  
+
+Non-functional requirements define **how the system should perform** rather than what it should do. These focus on quality attributes like performance, security, and usability.  
+
+**Examples (Booking Management System):**  
+- The system should **load search results within 2 seconds**.  
+- The system should handle **up to 10,000 concurrent users**.  
+- The website must be **mobile responsive and accessible**.  
+- All user data should be **encrypted** and stored securely.
+
+---
