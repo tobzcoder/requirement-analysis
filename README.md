@@ -80,3 +80,20 @@ Non-functional requirements define **how the system should perform** rather than
 - All user data should be **encrypted** and stored securely.
 
 ---
+
+## Use Case Diagrams  
+
+### What are Use Case Diagrams?  
+A **Use Case Diagram** visually represents how users (actors) interact with the system to achieve goals. It helps in identifying system boundaries, actors, and key functionalities.  
+
+### Benefits:  
+- Clarifies system scope and interactions  
+- Simplifies communication between technical and non-technical stakeholders  
+- Serves as a foundation for requirement documentation and testing  
+
+### Example – Booking Management System  
+Below is a sample use case diagram representing the booking process for a hotel management system.  
+
+![Booking Management System Use Case Diagram](./alx-booking-uc.png)
+
+---
