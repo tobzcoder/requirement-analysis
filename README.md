@@ -94,6 +94,6 @@ A **Use Case Diagram** visually represents how users (actors) interact with the 
 ### Example – Booking Management System  
 Below is a sample use case diagram representing the booking process for a hotel management system.  
 
-![Booking Management System Use Case Diagram](./alx-booking-uc.png)
+![Booking Management System Use Case Diagram](/alx-booking-uc.png)
 
 ---
